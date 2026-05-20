@@ -1,4 +1,4 @@
-# SSF-Strategic-Selection-and-Forgetting
+# continual-nids-mmd-drift-detection
 
 This is the code for the paper: *Continual Learning for Network Intrusion Detection with MMD-Based Drift Detection*.
 
