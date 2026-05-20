@@ -2,7 +2,7 @@
 
 This is the code for the paper: *Continual Learning for Network Intrusion Detection with MMD-Based Drift Detection*.
 
-Bo Xu, Qiang Yang, Tao Zhang, Xu Tong, Fan Yang, Rui Shi.
+Bo Xu, Rui Shi, Qiang Yang, Tao Zhang, Xu Tong, Fan Yang, Sen Ma.
 
 ## Dependencies
 
